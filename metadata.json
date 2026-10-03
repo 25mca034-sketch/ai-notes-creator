@@ -1,0 +1,6 @@
+{
+  "name": "AI Notes Maker",
+  "description": "AI-powered notes-making application featuring agent architecture, modular tools, conversational memory, quiz generation, and structured notes synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
